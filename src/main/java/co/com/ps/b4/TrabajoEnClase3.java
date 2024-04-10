@@ -24,6 +24,7 @@ public class TrabajoEnClase3 {
                 System.out.println(nuevaPalabra);
             }
         }
+        scanner.close();
     }
 }
 
